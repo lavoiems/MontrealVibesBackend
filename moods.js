@@ -12,7 +12,8 @@ function getPossibleMoods(periode) {
         return x.indexOf(parseInt(periode)) >= 0;
     })
     .map(data => {
-        return {name: data['name'], tagline: data['tagline']};
+        const moment = _.find(data['info'], d => d['moment'] === parseInt(periode));
+        return {name: data['name'], tagline: moment['tagline']};
     }).value();
 }
 
