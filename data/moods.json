@@ -1,24 +1,3 @@
-"amusement_park",
-"aquarium",
-"art_gallery",
-"bakery",
-"bar",
-"bowling_alley",
-"cafe",
-"casino",
-"church",
-"food",
-"gym",
-"library",
-"movie_theater",
-"museum",
-"night_club",
-"park",
-"restaurant",
-"shopping_mall",
-"spa",
-"zoo"
-
 {
   "moods": [
     {
