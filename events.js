@@ -19,7 +19,7 @@ function getExperts(mood, day, moment) {
 
 function get(mood, day, moment) {
     const activities = getExperts(mood, day, moment);
-    return activities;
+    return _.take(_.shuffle(activities), 6);
 }
 
 function getTags(mood) {

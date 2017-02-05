@@ -22,7 +22,7 @@ app.get('/events/', function(req, res) {
 });
 
 app.get('/routes/', function(req, res) {
-  res.send('hello world');
+  const r = routes.get(req.query.name);
 });
 
 app.listen(3000, function() {

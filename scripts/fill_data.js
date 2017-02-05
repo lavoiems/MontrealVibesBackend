@@ -21,20 +21,20 @@ function getData(name) {
 }
 
 function getDayInfo(day) {
-    if (!day['close'] || !day['open']) return ['1','2','3','4'];
+    if (!day['close'] || !day['open']) return ['0','1','2','3'];
     const open = parseInt(day['open']['time']);
     const close = parseInt(day['close']['time']);
     let moments = [];
-    if (open < 800 && close > 1100) {
+    if (open <= 1000 && close >= 1000) {
         moments.push('0');
     }
-    if (open < 1300 && close > 1700) {
+    if (open <= 1300 && close >= 1300) {
         moments.push('1');
     }
-    if (open < 1700 && close > 2100) {
+    if (open <= 1800 && close >= 1800) {
         moments.push('2');
     }
-    if (open < 2200 && close < 400) {
+    if (open <= 2359 && close <= 600) {
         moments.push('3');
     }
     console.log(moments);
@@ -84,5 +84,5 @@ function format(places, formattedArr, idx) {
 }
 const data = require('./events.json');
 
-//format(data, [], 80);
-getData('Beaver Lake').then(d => console.log(JSON.stringify(d)));
+format(data, [], 80);
+//getData('Beaver Lake').then(d => console.log(JSON.stringify(d)));
