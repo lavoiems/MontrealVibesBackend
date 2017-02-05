@@ -58,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/data/expert.json">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.37441862">
-              <caret line="0" column="317747" selection-start-line="0" selection-start-column="317742" selection-end-line="0" selection-end-column="317747" />
+              <caret line="0" column="326533" selection-start-line="0" selection-start-column="326533" selection-end-line="0" selection-end-column="326533" />
               <folding />
             </state>
           </provider>
@@ -656,12 +656,12 @@
       <created>1486282543079</created>
       <option name="number" value="Default" />
       <updated>1486282543079</updated>
-      <workItem from="1486282544273" duration="16051000" />
+      <workItem from="1486282544273" duration="16136000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16051000" />
+    <option name="totallyTimeSpent" value="16136000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="520" y="23" width="920" height="873" extended-state="0" />
@@ -792,7 +792,7 @@
     <entry file="file://$PROJECT_DIR$/data/expert.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.37441862">
-          <caret line="0" column="317747" selection-start-line="0" selection-start-column="317742" selection-end-line="0" selection-end-column="317747" />
+          <caret line="0" column="326533" selection-start-line="0" selection-start-column="326533" selection-end-line="0" selection-end-column="326533" />
           <folding />
         </state>
       </provider>
