@@ -1,3 +1,24 @@
+"amusement_park",
+"aquarium",
+"art_gallery",
+"bakery",
+"bar",
+"bowling_alley",
+"cafe",
+"casino",
+"church",
+"food",
+"gym",
+"library",
+"movie_theater",
+"museum",
+"night_club",
+"park",
+"restaurant",
+"shopping_mall",
+"spa",
+"zoo"
+
 {
   "moods": [
     {
@@ -19,6 +40,10 @@
           "moment": 3,
           "tagline": "I have no life and I still need to study."
         }
+      ],
+      "tags":[
+        "cafe",
+        "library"
       ]
     },
     {
@@ -36,6 +61,21 @@
           "moment": 3,
           "tagline": "Late night dating."
         }
+      ],
+      "tags":[
+        "amusement_park",
+        "art_gallery",
+        "aquarium",
+        "bar",
+        "bowling_alley",
+        "cafe",
+        "food",
+        "movie_theater",
+        "museum",
+        "park",
+        "restaurant",
+        "spa",
+        "zoo"
       ]
     },
     {
@@ -53,6 +93,13 @@
           "moment": 2,
           "tagline": "Feeling laxy?"
         }
+      ],
+      "tags":[
+        "art_gallery",
+        "cafe",
+        "library",
+        "museum",
+        "restaurant"
       ]
     },
     {
@@ -66,6 +113,12 @@
           "moment": 2,
           "tagline": "Artistic evening."
         }
+      ],
+      "tags":[
+        "art_gallery",
+        "cafe",
+        "movie_theater",
+        "museum"
       ]
     },
     {
@@ -83,6 +136,12 @@
           "moment": 2,
           "tagline": "Going back home."
         }
+      ],
+      "tags":[
+        "cafe",
+        "restaurant",
+        "gym",
+        "park"
       ]
     },
     {
@@ -104,6 +163,11 @@
           "moment": 3,
           "tagline": "Late night craving."
         }
+      ],
+      "tags":[
+        "cafe",
+        "restaurant",
+        "food"
       ]
     },
     {
@@ -117,6 +181,11 @@
           "moment": 2,
           "tagline": "Smarter everyday!"
         }
+      ],
+      "tags":[
+        "library",
+        "museum",
+        "art_gallery"
       ]
     },
     {
@@ -134,6 +203,12 @@
           "moment": 3,
           "tagline": "Let go the geek inside you."
         }
+      ],
+      "tags":[
+        "art_gallery",
+        "bowling_alley",
+        "movie_theater",
+        "library"
       ]
     },
     {
@@ -147,6 +222,14 @@
           "moment": 1,
           "tagline": "Let's try something fun!"
         }
+      ],
+      "tags":[
+        "amusement_park",
+        "bar",
+        "casino",
+        "night_club",
+        "park",
+        "restaurant",
       ]
     },
     {
@@ -164,6 +247,12 @@
           "moment": 2,
           "tagline": "Still have some energy left?"
         }
+      ],
+      "tags":[
+        "bar",
+        "bowling_alley",
+        "gym",
+        "park",
       ]
     },
     {
@@ -181,6 +270,9 @@
           "moment": 2,
           "tagline": "Feline fun.  Canine entertainment."
         }
+      ],
+      "tags":[
+        "park",
       ]
     },
     {
@@ -190,6 +282,9 @@
           "moment": 3,
           "tagline": "Gonna show my best dance moves!"
         }
+      ],
+      "tags":[
+        "night_club"
       ]
     },
     {
@@ -203,6 +298,9 @@
           "moment": 3,
           "tagline": "One last beer before bed."
         }
+      ],
+      "tags":[
+        "bar"
       ]
     },
     {
@@ -224,6 +322,28 @@
           "moment": 3,
           "tagline": "This round's on me!  Feeling wealthy."
         }
+      ],
+      "tags":[
+        "amusement_park",
+        "aquarium",
+        "art_gallery",
+        "bakery",
+        "bar",
+        "bowling_alley",
+        "cafe",
+        "casino",
+        "church",
+        "food",
+        "gym",
+        "library",
+        "movie_theater",
+        "museum",
+        "night_club",
+        "park",
+        "restaurant",
+        "shopping_mall",
+        "spa",
+        "zoo"
       ]
     },
     {
@@ -245,6 +365,28 @@
           "moment": 3,
           "tagline": "Can't sleep and I've got no money."
         }
+      ],
+      "tags":[
+        "amusement_park",
+        "aquarium",
+        "art_gallery",
+        "bakery",
+        "bar",
+        "bowling_alley",
+        "cafe",
+        "casino",
+        "church",
+        "food",
+        "gym",
+        "library",
+        "movie_theater",
+        "museum",
+        "night_club",
+        "park",
+        "restaurant",
+        "shopping_mall",
+        "spa",
+        "zoo"
       ]
     }
   ]
