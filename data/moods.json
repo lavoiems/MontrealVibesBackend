@@ -1,372 +1,298 @@
 {
-  "moods": [
-    {
-      "name": "study",
-      "info": [
-        {
-          "moment": 0,
-          "tagline": "Morning study motivation!"
-        },
-        {
-          "moment": 1,
-          "tagline": "Back from school studying."
-        },
-        {
-          "moment": 2,
-          "tagline": "I just ate and I'm ready to get things done!"
-        },
-        {
-          "moment": 3,
-          "tagline": "I have no life and I still need to study."
-        }
-      ],
-      "tags":[
-        "cafe",
-        "library"
-      ]
-    },
-    {
-      "name": "date",
-      "info": [
-        {
-          "moment": 1,
-          "tagline": "Help!  I need a successful date!"
-        },
-        {
-          "moment": 2,
-          "tagline": "Tindate evening 101."
-        },
-        {
-          "moment": 3,
-          "tagline": "Late night dating."
-        }
-      ],
-      "tags":[
-        "amusement_park",
-        "art_gallery",
-        "aquarium",
-        "bar",
-        "bowling_alley",
-        "cafe",
-        "food",
-        "movie_theater",
-        "museum",
-        "park",
-        "restaurant",
-        "spa",
-        "zoo"
-      ]
-    },
-    {
-      "name": "lazy",
-      "info": [
-        {
-          "moment": 0,
-          "tagline": "Lazy morning."
-        },
-        {
-          "moment": 1,
-          "tagline": "Fing me a chilling spot."
-        },
-        {
-          "moment": 2,
-          "tagline": "Feeling laxy?"
-        }
-      ],
-      "tags":[
-        "art_gallery",
-        "cafe",
-        "library",
-        "museum",
-        "restaurant"
-      ]
-    },
-    {
-      "name": "artsy",
-      "info": [
-        {
-          "moment": 1,
-          "tagline": "Discover new artists, it's soooo worth it."
-        },
-        {
-          "moment": 2,
-          "tagline": "Artistic evening."
-        }
-      ],
-      "tags":[
-        "art_gallery",
-        "cafe",
-        "movie_theater",
-        "museum"
-      ]
-    },
-    {
-      "name": "work",
-      "info": [
-        {
-          "moment": 0,
-          "tagline": "En route to work!"
-        },
-        {
-          "moment": 1,
-          "tagline": "Making your work day better!"
-        },
-        {
-          "moment": 2,
-          "tagline": "Going back home."
-        }
-      ],
-      "tags":[
-        "cafe",
-        "restaurant",
-        "gym",
-        "park"
-      ]
-    },
-    {
-      "name": "lunch",
-      "info": [
-        {
-          "moment": 0,
-          "tagline": "Best breakfast in town please."
-        },
-        {
-          "moment": 1,
-          "tagline": "You'll love this restaurant."
-        },
-        {
-          "moment": 2,
-          "tagline": "What's for supper?"
-        },
-        {
-          "moment": 3,
-          "tagline": "Late night craving."
-        }
-      ],
-      "tags":[
-        "cafe",
-        "restaurant",
-        "food"
-      ]
-    },
-    {
-      "name": "learn",
-      "info": [
-        {
-          "moment": 1,
-          "tagline": "I want to learn something new."
-        },
-        {
-          "moment": 2,
-          "tagline": "Smarter everyday!"
-        }
-      ],
-      "tags":[
-        "library",
-        "museum",
-        "art_gallery"
-      ]
-    },
-    {
-      "name": "geek",
-      "info": [
-        {
-          "moment": 1,
-          "tagline": "Let go the geek inside you."
-        },
-        {
-          "moment": 2,
-          "tagline": "Geeky evening."
-        },
-        {
-          "moment": 3,
-          "tagline": "Let go the geek inside you."
-        }
-      ],
-      "tags":[
-        "art_gallery",
-        "bowling_alley",
-        "movie_theater",
-        "library"
-      ]
-    },
-    {
-      "name": "adventurous",
-      "info": [
-        {
-          "moment": 0,
-          "tagline": "Feeling adventurous?"
-        },
-        {
-          "moment": 1,
-          "tagline": "Let's try something fun!"
-        }
-      ],
-      "tags":[
-        "amusement_park",
-        "bar",
-        "casino",
-        "night_club",
-        "park",
-        "restaurant",
-      ]
-    },
-    {
-      "name": "sport",
-      "info": [
-        {
-          "moment": 0,
-          "tagline": "Up for a morning run?"
-        },
-        {
-          "moment": 1,
-          "tagline": "Let's move!"
-        },
-        {
-          "moment": 2,
-          "tagline": "Still have some energy left?"
-        }
-      ],
-      "tags":[
-        "bar",
-        "bowling_alley",
-        "gym",
-        "park",
-      ]
-    },
-    {
-      "name": "animals",
-      "info": [
-        {
-          "moment": 0,
-          "tagline": "Waking up with the doggo... (or mr. cat)."
-        },
-        {
-          "moment": 1,
-          "tagline": "Fun moments with your pet companion"
-        },
-        {
-          "moment": 2,
-          "tagline": "Feline fun.  Canine entertainment."
-        }
-      ],
-      "tags":[
-        "park",
-      ]
-    },
-    {
-      "name": "club",
-      "info": [
-        {
-          "moment": 3,
-          "tagline": "Gonna show my best dance moves!"
-        }
-      ],
-      "tags":[
-        "night_club"
-      ]
-    },
-    {
-      "name": "bar",
-      "info": [
-        {
-          "moment": 2,
-          "tagline": "Hangout with friends."
-        },
-        {
-          "moment": 3,
-          "tagline": "One last beer before bed."
-        }
-      ],
-      "tags":[
-        "bar"
-      ]
-    },
-    {
-      "name": "money",
-      "info": [
-        {
-          "moment": 0,
-          "tagline": "Let's eat a king's breakfast."
-        },
-        {
-          "moment": 1,
-          "tagline": "Moneys is in the bank!"
-        },
-        {
-          "moment": 2,
-          "tagline": "Make it rain!!!"
-        },
-        {
-          "moment": 3,
-          "tagline": "This round's on me!  Feeling wealthy."
-        }
-      ],
-      "tags":[
-        "amusement_park",
-        "aquarium",
-        "art_gallery",
-        "bakery",
-        "bar",
-        "bowling_alley",
-        "cafe",
-        "casino",
-        "church",
-        "food",
-        "gym",
-        "library",
-        "movie_theater",
-        "museum",
-        "night_club",
-        "park",
-        "restaurant",
-        "shopping_mall",
-        "spa",
-        "zoo"
-      ]
-    },
-    {
-      "name": "cheap",
-      "info": [
-        {
-          "moment": 0,
-          "tagline": "Woke up with empty pockets."
-        },
-        {
-          "moment": 1,
-          "tagline": "Sorry, but I'm broke..."
-        },
-        {
-          "moment": 2,
-          "tagline": "I'm broke... again."
-        },
-        {
-          "moment": 3,
-          "tagline": "Can't sleep and I've got no money."
-        }
-      ],
-      "tags":[
-        "amusement_park",
-        "aquarium",
-        "art_gallery",
-        "bakery",
-        "bar",
-        "bowling_alley",
-        "cafe",
-        "casino",
-        "church",
-        "food",
-        "gym",
-        "library",
-        "movie_theater",
-        "museum",
-        "night_club",
-        "park",
-        "restaurant",
-        "shopping_mall",
-        "spa",
-        "zoo"
-      ]
-    }
-  ]
+	"moods": [{
+		"name": "study",
+		"info": [{
+			"moment": 0,
+			"tagline": "Morning study motivation!"
+		}, {
+			"moment": 1,
+			"tagline": "Back from school studying."
+		}, {
+			"moment": 2,
+			"tagline": "I just ate and I'm ready to get things done!"
+		}, {
+			"moment": 3,
+			"tagline": "I have no life and I still need to study."
+		}],
+		"tags": [
+			"cafe",
+			"library"
+		]
+	}, {
+		"name": "date",
+		"info": [{
+			"moment": 1,
+			"tagline": "Help!  I need a successful date!"
+		}, {
+			"moment": 2,
+			"tagline": "Tindate evening 101."
+		}, {
+			"moment": 3,
+			"tagline": "Late night dating."
+		}],
+		"tags": [
+			"amusement_park",
+			"art_gallery",
+			"aquarium",
+			"bar",
+			"bowling_alley",
+			"cafe",
+			"food",
+			"movie_theater",
+			"museum",
+			"park",
+			"restaurant",
+			"spa",
+			"zoo"
+		]
+	}, {
+		"name": "lazy",
+		"info": [{
+			"moment": 0,
+			"tagline": "Lazy morning."
+		}, {
+			"moment": 1,
+			"tagline": "Fing me a chilling spot."
+		}, {
+			"moment": 2,
+			"tagline": "Feeling laxy?"
+		}],
+		"tags": [
+			"art_gallery",
+			"cafe",
+			"library",
+			"museum",
+			"restaurant"
+		]
+	}, {
+		"name": "artsy",
+		"info": [{
+			"moment": 1,
+			"tagline": "Discover new artists, it's soooo worth it."
+		}, {
+			"moment": 2,
+			"tagline": "Artistic evening."
+		}],
+		"tags": [
+			"art_gallery",
+			"cafe",
+			"movie_theater",
+			"museum"
+		]
+	}, {
+		"name": "work",
+		"info": [{
+			"moment": 0,
+			"tagline": "En route to work!"
+		}, {
+			"moment": 1,
+			"tagline": "Making your work day better!"
+		}, {
+			"moment": 2,
+			"tagline": "Going back home."
+		}],
+		"tags": [
+			"cafe",
+			"restaurant",
+			"gym",
+			"park"
+		]
+	}, {
+		"name": "lunch",
+		"info": [{
+			"moment": 0,
+			"tagline": "Best breakfast in town please."
+		}, {
+			"moment": 1,
+			"tagline": "You'll love this restaurant."
+		}, {
+			"moment": 2,
+			"tagline": "What's for supper?"
+		}, {
+			"moment": 3,
+			"tagline": "Late night craving."
+		}],
+		"tags": [
+			"cafe",
+			"restaurant",
+			"food"
+		]
+	}, {
+		"name": "learn",
+		"info": [{
+			"moment": 1,
+			"tagline": "I want to learn something new."
+		}, {
+			"moment": 2,
+			"tagline": "Smarter everyday!"
+		}],
+		"tags": [
+			"library",
+			"museum",
+			"art_gallery"
+		]
+	}, {
+		"name": "geek",
+		"info": [{
+			"moment": 1,
+			"tagline": "Let go the geek inside you."
+		}, {
+			"moment": 2,
+			"tagline": "Geeky evening."
+		}, {
+			"moment": 3,
+			"tagline": "Let go the geek inside you."
+		}],
+		"tags": [
+			"art_gallery",
+			"bowling_alley",
+			"movie_theater",
+			"library"
+		]
+	}, {
+		"name": "adventurous",
+		"info": [{
+			"moment": 0,
+			"tagline": "Feeling adventurous?"
+		}, {
+			"moment": 1,
+			"tagline": "Let's try something fun!"
+		}],
+		"tags": [
+			"amusement_park",
+			"bar",
+			"casino",
+			"night_club",
+			"park",
+			"restaurant"
+		]
+	}, {
+		"name": "sport",
+		"info": [{
+			"moment": 0,
+			"tagline": "Up for a morning run?"
+		}, {
+			"moment": 1,
+			"tagline": "Let's move!"
+		}, {
+			"moment": 2,
+			"tagline": "Still have some energy left?"
+		}],
+		"tags": [
+			"bar",
+			"bowling_alley",
+			"gym",
+			"park"
+		]
+	}, {
+		"name": "animals",
+		"info": [{
+			"moment": 0,
+			"tagline": "Waking up with the doggo... (or mr. cat)."
+		}, {
+			"moment": 1,
+			"tagline": "Fun moments with your pet companion"
+		}, {
+			"moment": 2,
+			"tagline": "Feline fun.  Canine entertainment."
+		}],
+		"tags": [
+			"park"
+		]
+	}, {
+		"name": "club",
+		"info": [{
+			"moment": 3,
+			"tagline": "Gonna show my best dance moves!"
+		}],
+		"tags": [
+			"night_club"
+		]
+	}, {
+		"name": "bar",
+		"info": [{
+			"moment": 2,
+			"tagline": "Hangout with friends."
+		}, {
+			"moment": 3,
+			"tagline": "One last beer before bed."
+		}],
+		"tags": [
+			"bar"
+		]
+	}, {
+		"name": "money",
+		"info": [{
+			"moment": 0,
+			"tagline": "Let's eat a king's breakfast."
+		}, {
+			"moment": 1,
+			"tagline": "Moneys is in the bank!"
+		}, {
+			"moment": 2,
+			"tagline": "Make it rain!!!"
+		}, {
+			"moment": 3,
+			"tagline": "This round's on me!  Feeling wealthy."
+		}],
+		"tags": [
+			"amusement_park",
+			"aquarium",
+			"art_gallery",
+			"bakery",
+			"bar",
+			"bowling_alley",
+			"cafe",
+			"casino",
+			"church",
+			"food",
+			"gym",
+			"library",
+			"movie_theater",
+			"museum",
+			"night_club",
+			"park",
+			"restaurant",
+			"shopping_mall",
+			"spa",
+			"zoo"
+		]
+	}, {
+		"name": "cheap",
+		"info": [{
+			"moment": 0,
+			"tagline": "Woke up with empty pockets."
+		}, {
+			"moment": 1,
+			"tagline": "Sorry, but I'm broke..."
+		}, {
+			"moment": 2,
+			"tagline": "I'm broke... again."
+		}, {
+			"moment": 3,
+			"tagline": "Can't sleep and I've got no money."
+		}],
+		"tags": [
+			"amusement_park",
+			"aquarium",
+			"art_gallery",
+			"bakery",
+			"bar",
+			"bowling_alley",
+			"cafe",
+			"casino",
+			"church",
+			"food",
+			"gym",
+			"library",
+			"movie_theater",
+			"museum",
+			"night_club",
+			"park",
+			"restaurant",
+			"shopping_mall",
+			"spa",
+			"zoo"
+		]
+	}]
 }
