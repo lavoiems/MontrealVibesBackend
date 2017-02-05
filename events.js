@@ -12,11 +12,18 @@ module.exports = {
 }
 
 function find(field, tag) {
-    return a = _.values(field).indexOf(tag) >= 0;
+    return _.values(field).indexOf(tag) >= 0;
+}
+
+function find2(field, tag) {
+    return _.find(field, f => {
+            const g = parseInt(f) === parseInt(tag);
+            return g;
+        });
 }
 
 function getExperts(mood, day, moment) {
-    return _.filter(expertData, data => find(data['mood'], mood) && find(data['opened'][parseInt(day)], moment));
+    return _.filter(expertData, data => find(data['mood'], mood) && find2(data['opened'][parseInt(day)], moment));
 }
 
 function getRoutes(moment) {
