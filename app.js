@@ -2,6 +2,7 @@ const express = require('express');
 const app = express();
 const moods = require('./moods');
 const events = require('./events');
+const routes = require('./routes');
 
 app.get('/', function (req, res) {
 });
@@ -23,6 +24,7 @@ app.get('/events/', function(req, res) {
 
 app.get('/routes/', function(req, res) {
   const r = routes.get(req.query.name);
+  res.send(r);
 });
 
 app.listen(3000, function() {
