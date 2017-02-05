@@ -7,7 +7,8 @@ const expertData = require('./data/expert.json');
 const routeData = require('./data/route.json')['route'];
 
 module.exports = {
-    get
+    get,
+    count,
 }
 
 function find(field, tag) {
@@ -30,6 +31,10 @@ function get(mood, day, moment) {
     const take = route ? 5 : 6;
     const activities = getExperts(mood, day, moment);
     return _.concat(route, _.take(_.shuffle(activities), take));
+}
+
+function count(mood, moment) {
+    return getExperts(mood, 0, moment).length;
 }
 
 function getTags(mood) {

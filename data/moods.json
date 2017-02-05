@@ -132,24 +132,6 @@
 			"art_gallery"
 		]
 	}, {
-		"name": "geek",
-		"info": [{
-			"moment": 1,
-			"tagline": "Let go the geek inside you."
-		}, {
-			"moment": 2,
-			"tagline": "Geeky evening."
-		}, {
-			"moment": 3,
-			"tagline": "Let go the geek inside you."
-		}],
-		"tags": [
-			"art_gallery",
-			"bowling_alley",
-			"movie_theater",
-			"library"
-		]
-	}, {
 		"name": "adventurous",
 		"info": [{
 			"moment": 0,

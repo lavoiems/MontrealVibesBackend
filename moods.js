@@ -1,9 +1,26 @@
 const moodsData = require('./data/moods.json');
+const events = require('./events');
 const _ = require('lodash');
 
 module.exports = {
     get
 };
+
+function ranking(possibleMoods, periode) {
+    const d = [];
+    _.forEach(possibleMoods, mood => {
+        const count = events.count(mood['name'], periode);
+        d.push(Array(count).fill(mood));
+    });
+    return _.flatten(d);
+}
+
+function selectRandomMoods(ranks, n) {
+    if (n === 0 || ranks.length === 0) return;
+    const sample = _.sample(ranks);
+    _.remove(ranks, r => r['name']===sample['name']);
+    return _.concat(sample, selectRandomMoods(ranks, n-1));
+}
 
 function getPossibleMoods(periode) {
     return _.chain(moodsData['moods'])
@@ -18,5 +35,7 @@ function getPossibleMoods(periode) {
 }
 
 function get(periode) {
-    return _.take(_.shuffle(getPossibleMoods(periode)), 6);
+    const moods = getPossibleMoods(periode);
+    return selectRandomMoods(ranking(moods, periode), 6);
+
 }
