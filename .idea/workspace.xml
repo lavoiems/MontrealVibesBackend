@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0460cf1-ff5c-40ab-abc1-e8d018340c02" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/events.js" afterPath="$PROJECT_DIR$/events.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/expert.json" afterPath="$PROJECT_DIR$/data/expert.json" />
     </list>
     <ignored path="MontrealVibesBackend.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,7 +37,7 @@
       <file leaf-file-name="moods.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/moods.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
+            <state vertical-scroll-proportion="17.5">
               <caret line="0" column="1" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
               <folding />
             </state>
@@ -54,20 +54,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="expert.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="expert.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data/expert.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2533.2917">
-              <caret line="0" column="308869" selection-start-line="0" selection-start-column="308859" selection-end-line="0" selection-end-column="308869" />
+            <state vertical-scroll-proportion="0.37441862">
+              <caret line="0" column="317747" selection-start-line="0" selection-start-column="317742" selection-end-line="0" selection-end-column="317747" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="events.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="events.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/events.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2974239">
+            <state vertical-scroll-proportion="-4.703704">
               <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
               <folding />
             </state>
@@ -146,8 +146,8 @@
         <option value="$PROJECT_DIR$/data/moods.json" />
         <option value="$PROJECT_DIR$/moods.js" />
         <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/data/expert.json" />
         <option value="$PROJECT_DIR$/events.js" />
+        <option value="$PROJECT_DIR$/data/expert.json" />
       </list>
     </option>
   </component>
@@ -656,12 +656,12 @@
       <created>1486282543079</created>
       <option name="number" value="Default" />
       <updated>1486282543079</updated>
-      <workItem from="1486282544273" duration="15719000" />
+      <workItem from="1486282544273" duration="16051000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15719000" />
+    <option name="totallyTimeSpent" value="16051000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="520" y="23" width="920" height="873" extended-state="0" />
@@ -683,7 +683,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3990025" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3990025" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -757,26 +757,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/moods.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="1" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/fill_data.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/expert.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2533.2917">
-          <caret line="0" column="308869" selection-start-line="0" selection-start-column="308859" selection-end-line="0" selection-end-column="308869" />
           <folding />
         </state>
       </provider>
@@ -791,8 +775,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/events.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2974239">
+        <state vertical-scroll-proportion="-4.703704">
           <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/moods.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="17.5">
+          <caret line="0" column="1" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/expert.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37441862">
+          <caret line="0" column="317747" selection-start-line="0" selection-start-column="317742" selection-end-line="0" selection-end-column="317747" />
           <folding />
         </state>
       </provider>
