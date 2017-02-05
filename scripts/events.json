@@ -1,0 +1,1150 @@
+{
+  "places": [{
+    "name": "O' noir",
+    "tagline": "Eat in total darkness.",
+    "mood": [
+      "lunch",
+      "adventurous"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Restaurant 3734",
+    "tagline": "Trendy resto-bar.",
+    "mood": [
+      "date",
+      "lunch"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Fameux",
+    "tagline": "Best Smoked meet in town",
+    "mood": [
+      "lunch",
+      "cheap"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "La Banquise",
+    "tagline": "Breakfasts, poutines and all day, all night.",
+    "mood": [
+      "lunch",
+      "cheap"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+      3
+    ]
+  }, {
+    "name": "CINKO",
+    "tagline": "Cheap meals for only 5$.",
+    "mood": [
+      "lunch",
+      "cheap",
+      "date",
+      "work"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+      1,
+      2
+    ]
+  }, {
+    "name": "L'Entrepôt Mont-Royal",
+    "tagline": "Delicious beers, cocktails and 5$ food.",
+    "mood": [
+      "lunch",
+      "cheap",
+      "bar"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Pizzeria Napoletana",
+    "tagline": "Marvelous italien meal",
+    "mood": [
+      "lunch"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "McCarold",
+    "tagline": "Many beers and whiskies ",
+    "mood": [
+      "lunch",
+      "bar",
+      "work"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Boustan",
+    "tagline": "Montreal's Best Middle‑Eastern Fast Food",
+    "mood": [
+      "lunch",
+      "cheap",
+      "work"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+      3
+    ]
+  }, {
+    "name": "Pied de cochon",
+    "tagline": "Cooking class or simply eat MEAT",
+    "mood": [
+      "lunch",
+      "money",
+      "date",
+      "adventurous",
+      "learn"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Café Chat L'heureux",
+    "tagline": "Cafe for cat lovers",
+    "mood": [
+      "lazy",
+      "animals",
+      "date",
+      "lunch",
+      "adventurous"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Café Venosa",
+    "tagline": "A nice sip of cofee and feline company",
+    "mood": [
+      "lazy",
+      "animals",
+      "date",
+      "lunch",
+      "adventurous"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "El Rey del Taco",
+    "tagline": "Discover authentic Mexican food",
+    "mood": [
+      "lunch",
+      "cheap"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "L'gros luxe",
+    "tagline": "Resto bar in the heart of Montreal's Plateau",
+    "mood": [
+      "lunch",
+      "date",
+      "bar",
+      "work"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Poutineville",
+    "tagline": "So many poutine choices!",
+    "mood": [
+      "lunch"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Les 3 brasseurs",
+    "tagline": "Beer brewed on site!",
+    "mood": [
+      "bar",
+      "lunch"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "La belle et la boeuf",
+    "tagline": "A nice and varied menu for everybody.",
+    "mood": [
+      "lunch",
+      "date"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "L'auberge du dragon rouge",
+    "tagline": "Throwback a thousand years ago at the auberge.",
+    "mood": [
+      "lunch",
+      "money",
+      "adventurous"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Le filet",
+    "tagline": "One of the best restaurants in Montreal.",
+    "mood": [
+      "money",
+      "lunch"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Cafe Lola Rosa",
+    "tagline": "Good vegetarian comfort food",
+    "mood": [
+      "lunch",
+      "work"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Doggy Cafe",
+    "tagline": "Bring your own dog.",
+    "mood": [
+      "date",
+      "animals",
+      "lunch",
+      "adventurous"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "La panthère verte",
+    "tagline": "Not Only the Best Falafel in Town…",
+    "mood": [
+      "lunch",
+      "cheap"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Le Céramic Café Studio Montréal",
+    "tagline": "Bring your date or a friend and express yourself!",
+    "mood": [
+      "lunch",
+      "date",
+      "artsy",
+      "lazy"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Station des sports",
+    "tagline": "Sport station in town!",
+    "mood": [
+      "sport",
+      "lunch",
+      "bar"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Caravane Café",
+    "tagline": "Hipst ambiance in Cote des Neiges.",
+    "mood": [
+      "lunch",
+      "study",
+      "lazy",
+      "date",
+      "work"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Café Noir",
+    "tagline": "Roasted love",
+    "mood": [
+      "lunch",
+      "study",
+      "lazy",
+      "date",
+      "work"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Raisonnance Café",
+    "tagline": "A trendy place featuring espresso and vegan light meals",
+    "mood": [
+      "lunch",
+      "study",
+      "work",
+      "lazy"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Kafein cafe-bar",
+    "tagline": "Your one stop for amazing cocktails and artistic events.",
+    "mood": [
+      "study",
+      "artsy",
+      "lunch",
+      "bar",
+      "date"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Shaughnessy Cafe",
+    "tagline": "For everytime you need cofee.",
+    "mood": [
+      "lunch",
+      "study",
+      "work",
+      "lazy"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "La p'tite grenouille",
+    "tagline": "Vibrate to the sound of the chansonniers",
+    "mood": [
+      "cheap",
+      "artsy",
+      "bar"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Foufounes Electriques",
+    "tagline": "I love rock n' roll...",
+    "mood": [
+      "cheap",
+      "bar",
+      "club"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Le Belmont",
+    "tagline": "Dynamic bar with DJ's and shows.",
+    "mood": [
+      "artsy",
+      "bar",
+      "club"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Fitzroy",
+    "tagline": "The place to play billiards and baby foot.",
+    "mood": [
+      "bar",
+      "lunch",
+      "sport"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "McKibbins",
+    "tagline": "The Irish pub in town",
+    "mood": [
+      "lunch",
+      "bar",
+      "work"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Le Saint-Elizabeth",
+    "tagline": "Microbrewery beers and cocktails with a nice terasse.",
+    "mood": [
+      "bar"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Bar Le Record",
+    "tagline": "Back to the 50",
+    "mood": [
+      "bar",
+      "artsy",
+      "date"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Miss Villeray",
+    "tagline": "Monday Miss",
+    "mood": [
+      "bar",
+      "lunch"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Saint-Sulpice",
+    "tagline": "One of the best terasse in town... with karaoke!",
+    "mood": [
+      "bar"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Randolph Pub Ludique",
+    "tagline": "The most board games by square feets",
+    "mood": [
+      "geek",
+      "bar"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Dieu du Ciel!",
+    "tagline": "Craft brewery and terasse.",
+    "mood": [
+      "bar",
+      "lazy",
+      "date"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Appartment 200",
+    "tagline": "A bar you must try",
+    "mood": [
+      "bar"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "TRH Bar",
+    "tagline": "Punk rock bar with a full fledged skate park.",
+    "mood": [
+      "sport",
+      "bar",
+      "adventurous",
+      "artsy"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Complexe Sky",
+    "tagline": "Gay bar in montreal with multiple ambiances.",
+    "mood": [
+      "bar",
+      "club"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Taverne Saint-Sacrement",
+    "tagline": "Nice bar in front of the sanctuaire saint-sacrement",
+    "mood": [
+      "bar",
+      "lunch"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "2 Pierrots",
+    "tagline": "Cabaret artists ",
+    "mood": [
+      "bar",
+      "artsy"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Pourvoyeur",
+    "tagline": "Gin pub with small meals.",
+    "mood": [
+      "bar",
+      "lunch",
+      "date"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Abreuvoir Bar et Terrasse",
+    "tagline": "Sports on TV, night club, terasse... There is something for everybody.",
+    "mood": [
+      "sports",
+      "bar",
+      "club"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Bistro a Jojo",
+    "tagline": "Rock and blues bands.",
+    "mood": [
+      "artsy",
+      "bar"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "La Distillerie No.1",
+    "tagline": "Amazing cocktails you've probably never tasted before.",
+    "mood": [
+      "date",
+      "money",
+      "bar"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Cafe Campus",
+    "tagline": "Popular student bar on 3 stories!",
+    "mood": [
+      "bar",
+      "club"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Le Rouge Bar",
+    "tagline": "Fancy bar featuring a dance floor and DJ performances.",
+    "mood": [
+      "bar",
+      "club",
+      "money"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Rockette Bar",
+    "tagline": "Where rockers and hipsters meet.",
+    "mood": [
+      "bar",
+      "club"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "La Tulipe",
+    "tagline": "Rock and jazz concerts in a historical setting.",
+    "mood": [
+      "artsy",
+      "club",
+      "date"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Cabaret Mado",
+    "tagline": "Out of this world performances in a 20s decor.",
+    "mood": [
+      "artsy",
+      "adventurous",
+      "bar"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "New City Gas",
+    "tagline": "Raves and EDM shows in an old hangar setting.",
+    "mood": [
+      "artsy",
+      "club"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Resto-Bar La Maisonnee",
+    "tagline": "The UdeM bar.",
+    "mood": [
+      "bar",
+      "lunch"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "L'auberge Saint-Gabriel",
+    "tagline": "Fancy restaurant in the heart of the Old Montreal.",
+    "mood": [
+      "lunch",
+      "money",
+      "date"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Brasserie Laurier",
+    "tagline": "Resto, Bar, DJ, Sports.",
+    "mood": [
+      "lunch",
+      "bar",
+      "sports"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Bistro au Vieux Saint-Hubert",
+    "tagline": "Sports and karaoke in a friendly bistro.",
+    "mood": [
+      "sports",
+      "bar"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Chez Serge",
+    "tagline": "Are you ready to ride the mecanical bull?",
+    "mood": [
+      "bar",
+      "sports",
+      "adventurous"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Salsatheque",
+    "tagline": "Dance to tropical 70's music with DJ's and orchestras.",
+    "mood": [
+      "club",
+      "adventurous"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Bar La Remise",
+    "tagline": "The place to go for a perfect karaoke night in a casual setting.",
+    "mood": [
+      "bar"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Les Verres Stérilisés",
+    "tagline": "A classical montreal tavern.",
+    "mood": [
+      "bar"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Au p'tit Buck",
+    "tagline": "Cheap beer and karaoke.",
+    "mood": [
+      "bar",
+      "cheap"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Ye Olde Orchard Irish Pub",
+    "tagline": "One of the best fish n' chips in town.",
+    "mood": [
+      "lunch",
+      "bar",
+      "money"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Irish Embassy Pub & Grill Montreal",
+    "tagline": "Saint-Patrick's day and fish n' chips.",
+    "mood": [
+      "lunch",
+      "bar",
+      "money"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Le 281",
+    "tagline": "The bar offered a rare form of entertainment...",
+    "mood": [
+      "bar",
+      "club",
+      "money"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Pub West Shefford",
+    "tagline": "The perfect hipster bar.",
+    "mood": [
+      "bar",
+      "artsy",
+      "money"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Buonnanotte",
+    "tagline": "A Fast, Sexy and Intricate Ambiance",
+    "mood": [
+      "lunch",
+      "money",
+      "date",
+      "club",
+      "bar"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Mayfair",
+    "tagline": "BCBG Montreal.",
+    "mood": [
+      "bar",
+      "date"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Taverne Normand",
+    "tagline": "Always good vibes at this bar!",
+    "mood": [
+      "sport",
+      "lunch",
+      "bar"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Datcha",
+    "tagline": "EDM all night!",
+    "mood": [
+      "club"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Le bordel comedie club",
+    "tagline": "Cool place to laught a lot!",
+    "mood": [
+      "date",
+      "artsy",
+      "bar"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Le Shag",
+    "tagline": "Metropolis' afterparties.",
+    "mood": [
+      "bar",
+      "club"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Cafe Gitana",
+    "tagline": "A charming shisha lounge on St-Laurent.",
+    "mood": [
+      "adventurous",
+      "bar",
+      "lazy",
+      "date"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "La Ronde",
+    "tagline": "Times for hundreds rides of roller coasters",
+    "mood": [
+      "adventurous"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Biodome",
+    "tagline": "Come immerse yourself in five ecosystems!",
+    "mood": [
+      "animals",
+      "learn"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Insectarium",
+    "tagline": "Leading museum devoted to insects.",
+    "mood": [
+      "learn",
+      "adventurous"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Montréal Science Centre",
+    "tagline": "Exhibits on 12 advanced industrial sectors",
+    "mood": [
+      "learn"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Cinema Beaubien",
+    "tagline": "Wanna watch a movie and eat pop-corn?",
+    "mood": [
+      "date",
+      "lazy"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Montreal Museum of Fine Arts",
+    "tagline": "A bold, innovative and caring museum.",
+    "mood": [
+      "learn",
+      "artsy"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Arcade MTL",
+    "tagline": "The first arcade bar at montreal.",
+    "mood": [
+      "geek",
+      "bar"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Casino of Montreal",
+    "tagline": "An incomparable entertainment experience.",
+    "mood": [
+      "money",
+      "adventurous",
+      "bar"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }, {
+    "name": "Block Shop",
+    "tagline": "20 000 sq ft of bouldering for all levels",
+    "mood": [
+      "sport"
+    ],
+    "popularDays": [
+
+    ],
+    "popularMoment": [
+
+    ]
+  }]
+}
