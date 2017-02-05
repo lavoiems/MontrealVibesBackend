@@ -75,9 +75,9 @@ function format(places, formattedArr, idx) {
     formatPlace(places['places'][idx])
         .then(formatted => {
             formattedArr.push(formatted);
-            fs.writeFile('data8.json', JSON.stringify(formattedArr), err => {
+            fs.writeFile('data6.json', JSON.stringify(formattedArr), err => {
                 sleep.msleep(2000);
-                if (idx === 37 || idx === 52) idx += 1;
+                //if (idx === 37 || idx === 52) idx += 1;
                 format(places, formattedArr, idx + 1);
             });
         });
@@ -85,4 +85,4 @@ function format(places, formattedArr, idx) {
 const data = require('./events.json');
 
 //format(data, [], 80);
-getData('old port').then(d => console.log(JSON.stringify(d)));
+getData('Beaver Lake').then(d => console.log(JSON.stringify(d)));

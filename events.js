@@ -9,8 +9,12 @@ module.exports = {
     get
 }
 
+function find(field, tag) {
+    return a = _.values(field).indexOf(tag) >= 0;
+}
+
 function getExperts(mood, day, moment) {
-    return _.filter(expertData, data => data['mood'].indexOf(mood) >= 0 && data['opened'][day].indexOf(moment) >= 0);
+    return _.filter(expertData, data => find(data['mood'], mood) && find(data['opened'][parseInt(day)], moment));
 }
 
 function get(mood, day, moment) {
