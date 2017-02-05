@@ -5,14 +5,17 @@ module.exports = {
     get
 };
 
-function get(periode) {
+function getPossibleMoods(periode) {
     return _.chain(moodsData['moods'])
-    .filter((data) => {
-            const x = _.map(data['info'], d => d['moment']);
-            return x.indexOf(parseInt(periode)) >= 0;
-        })
+        .filter((data) => {
+        const x = _.map(data['info'], d => d['moment']);
+        return x.indexOf(parseInt(periode)) >= 0;
+    })
     .map(data => {
         return {name: data['name'], tagline: data['tagline']};
-    })
-    .value();
+    }).value();
+}
+
+function get(periode) {
+    return _.take(_.shuffle(getPossibleMoods(periode)), 6);
 }
