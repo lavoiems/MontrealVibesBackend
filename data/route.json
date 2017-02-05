@@ -1,33 +1,51 @@
 {
     "route": [ 
-        {"name": "Pub crawl Plateau", "places": [
+        {"id":0, "name": "Pub crawl Plateau", "places": [
             "https://maps.google.com/?cid=18003544394009049071",
             "https://maps.google.com/?cid=9617200806629661777",
             "https://maps.google.com/?cid=9468178804528085060"
             ]},
-        {"name": "Pub crawl Sainte-Catherine", "places": [
+        {"id":1, "name": "Pub crawl Sainte-Catherine", "places": [
             "https://maps.google.com/?cid=10051514529163035901",
             "https://maps.google.com/?cid=12629189354025610906",
             "https://maps.google.com/?cid=9633948780008571981"
         ]},
-        {"name": "Pub crawl Saint-Denis", "places": [
+        {"id":2, "name": "Pub crawl Saint-Denis", "places": [
             "https://maps.google.com/?cid=11598171213387190582",
             "https://maps.google.com/?cid=12999329043030472639",
             "https://maps.google.com/?cid=14668089707994921111"
         ]},
-        {"name": "Pub crawl Saint-Laurent", "places": [
+        {"id":3, "name": "Pub crawl Saint-Laurent", "places": [
             "https://maps.google.com/?cid=15514103763919835179",
             "https://maps.google.com/?cid=18000206410100333840",
             "https://maps.google.com/?cid=9235940792358193595"
         ]},
-        {"name": "Fred's Tindate", "places": [
+        {"id":4, "name": "Fred's Tindate", "places": [
             "https://maps.google.com/?cid=11678809713847697044",
+            "https://maps.google.com/?cid=2028791057139663588",
+            "https://maps.google.com/?cid=5441109865271301072"
         ]},
-        {"name": "Jules' studying night", "places": []},
-        {"name": "Anthony's wild night", "places": []},
-        {"name": "Samuel's adventures", "places": []},
-        {"name": "Francis' discoveries", "places": []},
-        {"name": "Winter day", "places": []},
-        {"name": "Summer day", "places": []}
+        {"id":5, "name": "Jules' studying night", "places": [
+            "https://maps.google.com/?cid=4472606821486285722",
+            "https://maps.google.com/?cid=11237377514764009247",
+            "https://maps.google.com/?cid=10846218657902340389"
+        ]},
+        {"id":6, "name": "Anthony's wild night", "places": [
+            "https://maps.google.com/?cid=14572578762502744843",
+            "https://maps.google.com/?cid=5933303850822584699",
+            "https://maps.google.com/?cid=13475805953332012097"
+        ]},
+        {"id":7, "name": "Samuel's adventures", "places": [
+            "https://maps.google.com/?cid=15562596611297590220",
+            "https://maps.google.com/?cid=12551439294374128152",
+            "https://maps.google.com/?cid=2114274887342677268"
+        ]},
+        {"id":8, "name": "Francis' discoveries", "places": [
+            "https://maps.google.com/?cid=1470187561366410141",
+            "https://maps.google.com/?cid=16989635165847737290",
+            "https://maps.google.com/?cid=5817992020718484477"
+        ]},
+        {"id":10, "name": "Winter day", "places": []},
+        {"id":11, "name": "Summer day", "places": []}
     ]
 }
